@@ -1,6 +1,8 @@
 # Employee Engagement Dashboard in Power BI
 
 This repository contains the resources and instructions for creating an Employee Engagement Dashboard in Power BI using data collected from Google Forms.
+
+
 <img width="562" alt="Screenshot 2024-05-30 201213" src="https://github.com/SaudAzmi/EMPLOYEE-ENGAGEMENT-DASHBOARD/assets/107422506/b5a8c991-fdde-4548-a9ad-c2a81b8d0319">
 
 
